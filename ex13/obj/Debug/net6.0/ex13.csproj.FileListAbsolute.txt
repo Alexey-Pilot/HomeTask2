@@ -1,0 +1,15 @@
+C:\Users\alexr\OneDrive\Рабочий стол\HomeWork2\HomeTask2\ex13\bin\Debug\net6.0\ex13.exe
+C:\Users\alexr\OneDrive\Рабочий стол\HomeWork2\HomeTask2\ex13\bin\Debug\net6.0\ex13.deps.json
+C:\Users\alexr\OneDrive\Рабочий стол\HomeWork2\HomeTask2\ex13\bin\Debug\net6.0\ex13.runtimeconfig.json
+C:\Users\alexr\OneDrive\Рабочий стол\HomeWork2\HomeTask2\ex13\bin\Debug\net6.0\ex13.dll
+C:\Users\alexr\OneDrive\Рабочий стол\HomeWork2\HomeTask2\ex13\bin\Debug\net6.0\ex13.pdb
+C:\Users\alexr\OneDrive\Рабочий стол\HomeWork2\HomeTask2\ex13\obj\Debug\net6.0\ex13.csproj.AssemblyReference.cache
+C:\Users\alexr\OneDrive\Рабочий стол\HomeWork2\HomeTask2\ex13\obj\Debug\net6.0\ex13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexr\OneDrive\Рабочий стол\HomeWork2\HomeTask2\ex13\obj\Debug\net6.0\ex13.AssemblyInfoInputs.cache
+C:\Users\alexr\OneDrive\Рабочий стол\HomeWork2\HomeTask2\ex13\obj\Debug\net6.0\ex13.AssemblyInfo.cs
+C:\Users\alexr\OneDrive\Рабочий стол\HomeWork2\HomeTask2\ex13\obj\Debug\net6.0\ex13.csproj.CoreCompileInputs.cache
+C:\Users\alexr\OneDrive\Рабочий стол\HomeWork2\HomeTask2\ex13\obj\Debug\net6.0\ex13.dll
+C:\Users\alexr\OneDrive\Рабочий стол\HomeWork2\HomeTask2\ex13\obj\Debug\net6.0\refint\ex13.dll
+C:\Users\alexr\OneDrive\Рабочий стол\HomeWork2\HomeTask2\ex13\obj\Debug\net6.0\ex13.pdb
+C:\Users\alexr\OneDrive\Рабочий стол\HomeWork2\HomeTask2\ex13\obj\Debug\net6.0\ex13.genruntimeconfig.cache
+C:\Users\alexr\OneDrive\Рабочий стол\HomeWork2\HomeTask2\ex13\obj\Debug\net6.0\ref\ex13.dll
